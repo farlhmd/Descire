@@ -1,9 +1,7 @@
-/*
-See LICENSE folder for this sample’s licensing information.
+//Descire
+//
+//Created by Farhan Ilhamdi 30/10/2020
 
-Abstract:
-An object that models a user profile.
-*/
 import Foundation
 
 struct Profile {
@@ -27,4 +25,12 @@ struct Profile {
         case autumn = "🍂"
         case winter = "☃️"
     }
+}
+struct Profile {
+    var name: String
+    var followers: Int
+    var following: Int
+    var bio: String
+    var followedBy: [String]
+    var posts: [Feed]
 }
