@@ -1,5 +1,5 @@
 ## Descire
-Design what you descire
+Design what you descire - a little project by a boy who doesn't really love to code, but still gotta challenge himself.
 
 ### website demo: 
 www.descire.live
