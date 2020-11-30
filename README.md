@@ -1,7 +1,7 @@
 # Descire
-[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://developer.apple.com/ios/)
-[![languange](https://img.shields.io/badge/languange-Swift-orange)](https://swift.org)
-[![languange](https://img.shields.io/badge/platform-JavaScript-yellow)](https://www.javascript.com)
+[![platform](https://img.shields.io/badge/platform-iOS-brightgreen)](https://developer.apple.com/ios/)
+[![languange](https://img.shields.io/badge/language-Swift-orange)](https://swift.org)
+[![languange](https://img.shields.io/badge/language-JavaScript-yellow)](https://www.javascript.com)
 ![Repository size](https://img.shields.io/github/repo-size/farlhmd/Descire)
 
 
