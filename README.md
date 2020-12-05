@@ -2,12 +2,12 @@
 <p align="center">
 <a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-farlhmd-blue?logo=github"></a>
 </p>
-
+<p align="center">
 [![platform](https://img.shields.io/badge/platform-iOS-brightgreen)](https://developer.apple.com/ios/)
 [![languange](https://img.shields.io/badge/language-Swift-orange)](https://swift.org)
 [![languange](https://img.shields.io/badge/language-JavaScript-yellow)](https://www.javascript.com)
 ![Repository size](https://img.shields.io/github/repo-size/farlhmd/Descire)
-
+</p>
 
 Design what you descire - a little project by a boy who doesn't really love to code, but still gotta challenge himself.
 
