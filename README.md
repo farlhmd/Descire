@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://developer.apple.com/ios/"><img title="Platform" src="https://img.shields.io/badge/platform-iOS-brightgreen?style=plastic">
 <a href="https://swift.org"><img title="Language" src="https://img.shields.io/badge/language-Swift-orange?style=plastic">
-<a href="https://www.javascript.com"><img title="Language" src="https://img.shields.io/badge/platform-Javascript-brightgreen?style=plastic">
+<a href="https://www.javascript.com"><img title="Language" src="https://img.shields.io/badge/platform-Javascript-yellow?style=plastic">
 <a href="#"><img title="Repo size" src="https://img.shields.io/github/repo-size/farlhmd/Descire?style=plastic">
 
 </p>
