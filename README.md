@@ -17,5 +17,6 @@ www.descire.live
 ## iOS demo:
 
 <p>repos: https://github.com/farlhmd/Descire/tree/master/Descire-Mobile/ios</p>
-<p>screenshot:</p>
+screenshot:
+
 ![alt text](https://github.com/farlhmd/Descire/blob/master/Descire-Mobile/ios/descire_screenshot.jpg)
